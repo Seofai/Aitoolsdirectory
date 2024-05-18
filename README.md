@@ -24,7 +24,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Connect with Us
 
 - Visit our website: [seofai.com](https://seofai.com)
-- Follow us on Twitter: [@seofai](#)
-- Join our community on Discord: [seofai Community](#)
+- Follow us on Twitter: [@seofaitools](#)
 
 Thank you for visiting our repository. We hope you find the resources helpful!
